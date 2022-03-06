@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Hello World
+title: Hi Everyone
 ---
 
 # Title
 
 ## Subtitle
 
-First post on my Github Jekyll page on the first day of the BioHack Academy
+This is my first post on github! I hope it works!
 
 **bold**
 
