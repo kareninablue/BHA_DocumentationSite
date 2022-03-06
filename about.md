@@ -13,4 +13,3 @@ Karenina van den Crommenacker, bio artist and visual researcher, is intrigued by
 Karenina translates these inspiring phenomena into well-designed and appealing multimedia works. By making the invisible visible, she challenges you to experience the world from a new perspective.
 
 You will honor algae in the video installation [Algmachtige](https://karenina.blue/Algmachtige) (Algeamighty), learn about your unique microbiome by extracting your portrait in the [BIO-ID Lab](https://karenina.blue/BIO-ID-LAB) and escape from your humancenterd mindset in [Little Phenomena](https://karenina.blue/Little-Phenomena).
-
