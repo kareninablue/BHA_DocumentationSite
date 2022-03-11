@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 How can I make a Lab that fits in my studio? Can it be a large transparent construction on my desk? Could it be a tent? 
