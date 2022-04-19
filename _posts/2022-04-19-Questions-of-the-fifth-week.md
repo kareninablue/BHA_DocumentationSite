@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Can you gmo someones hairstyle?
 
