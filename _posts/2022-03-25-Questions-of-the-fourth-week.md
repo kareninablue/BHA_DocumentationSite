@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 I want to try darkfield microscopy. To do that I need to 3D print [filters](https://www.thingiverse.com/thing:4252909)
 
@@ -20,4 +20,3 @@ How to aproach ourselfs as multispecies?
 How can I use the empirical cycle in my creative process?
 
 How to have a sensory experience with microbes?
-
